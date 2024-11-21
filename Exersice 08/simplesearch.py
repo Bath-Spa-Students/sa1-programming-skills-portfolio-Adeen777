@@ -2,7 +2,7 @@
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # The name we're searching for
-search_name = input("enter the name your searching for: ")
+search_name = "Sam"
 
 # Check if 'Sam' is in the list
 if search_name in names:
