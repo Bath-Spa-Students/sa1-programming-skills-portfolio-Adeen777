@@ -1,4 +1,4 @@
-# Initialize the list of names
+# Initial the list of names
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # The name we're searching for
