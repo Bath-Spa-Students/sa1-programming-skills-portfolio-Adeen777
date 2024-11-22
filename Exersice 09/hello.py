@@ -3,7 +3,7 @@ def hello():
 
 def main():
     hello()  
-# this is to Displays "Hello" on to the console.
+# this is to Displays "Hello" on to the.
 
 # This line checks if script is being run directly or indirectly.
 if __name__ == "__main__":
